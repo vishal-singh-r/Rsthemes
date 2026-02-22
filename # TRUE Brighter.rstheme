@@ -491,7 +491,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 .rstudio-themes-flat .rstudio-themes-scrollbars {
   /* Works on Firefox */
   scrollbar-width: auto;
-  scrollbar-color: whitesmoke rgba(250, 250, 250, 0.5);
+  scrollbar-color: #7B7B7B rgba(250, 250, 250, 0.5);
   /* Works on Chrome, Edge, and Safari */
 }
 
